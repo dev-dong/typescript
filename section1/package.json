@@ -15,5 +15,8 @@
     "url": "https://github.com/dev-dong/typescript/issues"
   },
   "homepage": "https://github.com/dev-dong/typescript#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.15.19"
+  }
 }
