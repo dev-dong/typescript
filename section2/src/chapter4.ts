@@ -30,9 +30,9 @@ let countryCodes: CountryCodes = {
 
 type countryNumberCodes = {
     [key: string]: number
-    Korea: string // Korea property는 필수로 가져야한다.
+    Korea: number // Korea property는 필수로 가져야한다.
 }
 
 let countryNumberAndStringCodes: countryNumberCodes = {
-    Korea: "ko"
+    Korea: 440
 }
